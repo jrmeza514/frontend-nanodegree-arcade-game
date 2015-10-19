@@ -1,5 +1,12 @@
 Arcade Game Info:
 ================
+Run This Game:
+--------------
+All You will need to run this game is navigate to the
+project's root directory and open the index.html file
+in your preferred browser.
+
+
 Requirements:
 ------------
 * The Game Requires That You Have A Keyboard For Input.
@@ -22,8 +29,8 @@ Press The Up, Down, Left and Right Arrows to Move the player in the respective d
 
 Enemies
 ------
-Avoid Enemies at All Cost. Enemies Will Spawn Periodically an run across the Paved 
-Section Of The Level At Different Speeds. They Cannot Move Vertically or Leave The 
+Avoid Enemies at All Cost. Enemies Will Spawn Periodically an run across the Paved
+Section Of The Level At Different Speeds. They Cannot Move Vertically or Leave The
 Paved Section.
 
 ___
